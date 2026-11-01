@@ -2,7 +2,7 @@ import csv, os, datetime
 import psutil
 import matplotlib.pyplot as plt
 
-CPU_LIMIT = 25
+CPU_LIMIT = 80
 MEM_LIMIT = 85
 DISK_LIMIT = 90
 INTERVAL = 2
